@@ -1,0 +1,93 @@
+:root {
+  --bs-primary-rgb: 16,226,253;
+  --bg-green: #4caf50c7;
+  --bg-red: #dc359bbd;
+  --bg-body: #fff;
+  --bs-body-bg: #fff;
+  --bs-navbar-brand-color: #fff;
+
+
+}
+
+.header {
+}
+.navbar {
+}
+.navbar-dark {
+}
+.bg-primary {
+}
+.container {
+}
+.navbar-brand {
+}
+.form-inline {
+}
+.form-control {
+}
+.form-control-sm {
+}
+
+
+.form-section {
+}
+.mt-5 {
+}
+.container {
+}
+.row {
+}
+.col {
+}
+.col-8 {
+}
+.mx-auto {
+}
+.card {
+}
+.card-body {
+}
+.card-title {
+}
+.form-control {
+}
+.mt-3 {
+}
+.btn {
+  background-color: var(--bs-btn-bg);
+
+}
+.btn-primary {
+  background-color: var(--bg-green);
+}
+.btn-primary:hover {
+  background-color: green;
+}
+.mt-4 {
+}
+.tasks-list-section {
+}
+.list-group {
+}
+.list-group-item + .list-group-item {
+  border-top-width: 1px;
+}
+.d-flex {
+}
+.align-items-center {
+}
+.flex-wrap {
+}
+.mt-2 {
+}
+.w-100 {
+}
+.btn-danger {
+  margin-left: auto;
+  background-color: var(--bg-red);
+  
+}
+.m-xl-auto {
+}
+.delete-btn {
+}
