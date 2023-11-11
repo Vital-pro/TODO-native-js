@@ -23,7 +23,8 @@
 }
 .form-inline {
 }
-.form-control {
+.form-control:hover {
+  cursor: pointer;
 }
 .form-control-sm {
 }
